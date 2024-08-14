@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/header-content-footer-using-react/static/css/main.3c98b5ce.css",
+    "main.js": "/header-content-footer-using-react/static/js/main.98b22763.js",
+    "index.html": "/header-content-footer-using-react/index.html",
+    "main.3c98b5ce.css.map": "/header-content-footer-using-react/static/css/main.3c98b5ce.css.map",
+    "main.98b22763.js.map": "/header-content-footer-using-react/static/js/main.98b22763.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c98b5ce.css",
+    "static/js/main.98b22763.js"
+  ]
+}
